@@ -10,13 +10,10 @@ public class ejercicio1 {
         boolean resultado;
         if (resultado= num1 % num2 == 0){
             System.out.println("Los numeros introducidos son multiplos");
-
         }
         else {
             System.out.println("Los numeros no son multiplos");
         }
-
-
 
     }
 }
